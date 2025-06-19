@@ -18,7 +18,8 @@ pip install -r requirements.txt
 
 
 ## HCSD Weights
-
+w/o both indicates that neither DGF nor additional layers are used, w/ DGF indicates that only DGF is used, and w/ DGF + m indicates that DGF is used along with the addition of m Transformer blocks.
+[https://huggingface.co/fourss/hcds/tree/main](https://huggingface.co/fourss/hcds/tree/main)
 
 
 | Base Model         | HCSD Weights                                                 |
