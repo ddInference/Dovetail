@@ -8,8 +8,8 @@ HCSD combines speculative decoding characteristics with heterogeneous architectu
 
 
 ```bash
-git clone https://github.com/fousdfrf/hcds.git
-cd HCSD
+git clone https://github.com/ddInference/Dovetail.git
+cd Dovetail
 pip install -r requirements.txt
 ```
 
